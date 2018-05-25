@@ -12,5 +12,5 @@ unzip /path/to/file.zip -d temp_for_zip_extract
 at least creater one environment from it.
 
 # installing Opencv in Mac OS is pain: 
-https://www.pyimagesearch.com/2016/12/05/macos-install-opencv-3-and-python-3-5/
+1) https://www.pyimagesearch.com/2016/12/05/macos-install-opencv-3-and-python-3-5/
 will help, for 3.6 and above see comments.
